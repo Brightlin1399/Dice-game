@@ -1,0 +1,22 @@
+body{
+  background-color: azure;
+  margin: 0;
+  text-align: center;
+  
+}
+
+.dice{
+  display: inline-block;
+  position: relative;
+  padding: 50px;
+}
+h3{
+  background-color:lawngreen;
+  font-family: 'Aboreto', cursive;
+  
+}
+h1{
+  font-family: 'Aboreto', cursive;
+  font-size: 5rem;
+  text-shadow: 5px 0 #232931;
+}
